@@ -306,7 +306,7 @@
 			
 			
 			</div>
-
+			<?php include('header.php'); ?>
 			<script type="text/javascript">
 				$(function(){
 				  $('#mix-container').mixItUp();
